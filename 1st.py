@@ -1,4 +1,6 @@
-2353 54
-2407
+def sum(a, b):
+	return a+b
 
-***Repl Closed***
+a,b=map(int, input().split())
+print(sum(a,b))
+print("heloo")
