@@ -1,6 +1,5 @@
-def sum(a, b):
-	return a+b
-
-a,b=map(int, input().split())
-print(sum(a,b))
-print("heloo")
+n=10
+if n==2:
+	print("two")
+elif n>=10:
+	print("ten")
